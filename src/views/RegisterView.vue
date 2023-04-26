@@ -1,7 +1,8 @@
+<script setup>
+import TheRegister from '../components/TheRegister.vue'
+</script>
 <template>
-    <div class="register">
-      <h1>This is an register page</h1>
-    </div>
+  <TheRegister/>
   </template>
   
   <style>

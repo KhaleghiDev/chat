@@ -1,7 +1,8 @@
+<script setup> 
+import TheLogin from "../components/TheLogin.vue"
+</script>
 <template>
-    <div class="login">
-      <h1>This is an login page</h1>
-    </div>
+  <TheLogin/>
   </template>
   
   <style>

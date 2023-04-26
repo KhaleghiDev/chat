@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        سلام به آپ چت بات خوش آمدید 
+       چت بات 
       </div>
     </div>
   </div>

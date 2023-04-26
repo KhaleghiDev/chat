@@ -9,9 +9,9 @@ import { RouterLink, RouterView } from "vue-router";
         <img
           alt="Vue logo"
           class="logo"
-          src="@/assets/chat/img/logo.jpg"
-          width="125"
-          height="125"
+          src="@/assets/chat/img/logo.png"
+          width="64"
+          height="64"
       /></a>
       <button
         class="navbar-toggler"
