@@ -10,8 +10,9 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
-    devServer: {
-      proxy: 'http://openai.test/',
-    }
+    baseUrl: 'http://openai.test/api'
+    // devServer: {
+    //   proxy: 'http://openai.test/',
+    // }
   }
 })
