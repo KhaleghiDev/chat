@@ -29,8 +29,8 @@ const listenChat = async ()=> {
       console.log(error);
     });
   }
-  
-listenChat();
+
+listchat;
 </script>
 <template>
   <TheChat :lists="lists"/>
