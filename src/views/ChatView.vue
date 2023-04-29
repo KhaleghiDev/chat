@@ -16,7 +16,7 @@ function listchat() {
       // handle error
       console.log(error);
     });
-    
+  }
 listchat;
 </script>
 <template>
